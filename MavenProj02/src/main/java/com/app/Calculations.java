@@ -8,7 +8,10 @@ public class Calculations{
 		System.out.println("sub ::");
 		return a-b;
 	}
-	
-	
+
+	public static int mul(int a, int b) {
+		System.out.println("mul ::");
+		return a*b;
+	}
 
 }
